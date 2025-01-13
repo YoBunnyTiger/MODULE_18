@@ -4,45 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba84c27b-bf4b-4ed4-8b69-4655e60b96d9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example1/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example1/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example1/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example1/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example1/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example1/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example1/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example2/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example2/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example2/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example2/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example2/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example2/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example2/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example3/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example3/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example3/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example3/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example3/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example3/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example3/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task2/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task2/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task2/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task2/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task2/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task2/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task2/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/second_task/class_template.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/second_task/func_template.html" afterDir="false" />
-    </list>
+    <list default="true" id="ba84c27b-bf4b-4ed4-8b69-4655e60b96d9" name="Changes" comment="&quot;Urls и Views. Функциональное и классовое представление.&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,15 +17,19 @@
       </list>
     </option>
   </component>
+  <component name="Git.Pull.Settings">
+    <option name="OPTIONS">
+      <set>
+        <option value="REBASE" />
+      </set>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;YoBunnyTiger&quot;
-  }
-}</component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {}
+}]]></component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/YoBunnyTiger/MODULE_18.git&quot;,
@@ -111,6 +77,19 @@
       <option name="presentableId" value="Default" />
       <updated>1736405122366</updated>
     </task>
+    <task id="LOCAL-00001" summary="&quot;Urls и Views. Функциональное и классовое представление.&quot;">
+      <option name="closed" value="true" />
+      <created>1736786753932</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1736786753932</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;Urls и Views. Функциональное и классовое представление.&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Urls и Views. Функциональное и классовое представление.&quot;" />
   </component>
 </project>
