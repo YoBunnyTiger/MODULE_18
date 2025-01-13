@@ -2,17 +2,32 @@ from django.shortcuts import render
 
 
 def index(request):
-    return render(request, 'third_task/index.html')
+    title = 'Главная страница'
+    text = 'Магазин'
+    context = {
+        'title': title,
+        'text': text,
+    }
+    return render(request, 'third_task/index.html', context)
 
 
 def shop(request):
+    title = 'Игры 90-х'
     items = {
         'item1': 'DOOM',
         'item2': 'ГЭГ: Отвязное приключение',
         'item3': 'БРАТЬЯ ПИЛОТЫ'
     }
-    return render(request, 'third_task/shop.html', {'items': items})
+    context = {
+        'title': title,
+        'items': items,
+    }
+    return render(request, 'third_task/shop.html', context)
 
 
 def cart(request):
-    return render(request, 'third_task/cart.html')
+    text = 'Здесь будет информация о ваших товарах.'
+    context = {
+        'text': text,
+    }
+    return render(request, 'third_task/cart.html', context)
