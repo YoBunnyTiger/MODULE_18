@@ -8,7 +8,7 @@ def index(request):
         'title': title,
         'text': text,
     }
-    return render(request, 'third_task/index.html', context)
+    return render(request, 'third_task/platform.html', context)
 
 
 def shop(request):
@@ -22,7 +22,7 @@ def shop(request):
         'title': title,
         'items': items,
     }
-    return render(request, 'third_task/shop.html', context)
+    return render(request, 'third_task/games.html', context)
 
 
 def cart(request):
